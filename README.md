@@ -1,4 +1,4 @@
-# Multiple SLTP
+# Multiple SL TP
 Multiple single-price Stop Loss and Take Profit, simultaneous for all orders.
 
 ## Description
@@ -23,8 +23,8 @@ This script allows you to quickly modify Stop Loss (SL) and Take Profit (TP) lev
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 
-# Daugiau SLTP
-Daugelio vienos kainos Stop Loss ir Take Profit nustatymas, vienu metu visoms pozicijoms.
+# Multiple SL TP
+Vienos kainos Stop Loss ir Take Profit nustatymas, vienu metu visoms pozicijoms.
 
 ## Aprašymas
 Šis skriptas leidžia greitai modifikuoti Stop Loss (SL) ir Take Profit (TP) lygius daugybei pozicijų vienu metu. Jame yra mygtukai pridėti SL ir TP lygiams, kartu su įvedimo laukais, skirtais nurodyti norimus lygius.
@@ -42,7 +42,7 @@ Daugelio vienos kainos Stop Loss ir Take Profit nustatymas, vienu metu visoms po
 4. Spustelėję bet kurį mygtuką bus modifikuoti SL arba TP lygiai visoms atidarytomis pozicijomis pagal poreikį.
 
 ## Vaizdo pamokos
-[Peržiūrėkite vaizdo pamoką, kaip įdiegti ir naudoti Daugiau SLTP skriptą](https://github.com/Rimvydasdev/MultipleSLTP/assets/119669569/017a61ea-922a-4895-a25e-2073b2daa93f)
+[Peržiūrėkite vaizdo pamoką, kaip įdiegti ir naudoti Multiple SLTP skriptą](https://github.com/Rimvydasdev/MultipleSLTP/assets/119669569/017a61ea-922a-4895-a25e-2073b2daa93f)
 
 ## Licencija
 Šis projektas yra licencijuotas pagal MIT Licenciją - daugiau informacijos galite rasti faile [LICENSE.md](LICENSE.md).
